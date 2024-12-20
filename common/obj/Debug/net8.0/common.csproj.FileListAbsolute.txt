@@ -1,0 +1,11 @@
+F:\Rout\.Net\C#\Session 04\Assignments\oop_1\common\bin\Debug\net8.0\common.deps.json
+F:\Rout\.Net\C#\Session 04\Assignments\oop_1\common\bin\Debug\net8.0\common.dll
+F:\Rout\.Net\C#\Session 04\Assignments\oop_1\common\bin\Debug\net8.0\common.pdb
+F:\Rout\.Net\C#\Session 04\Assignments\oop_1\common\obj\Debug\net8.0\common.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rout\.Net\C#\Session 04\Assignments\oop_1\common\obj\Debug\net8.0\common.AssemblyInfoInputs.cache
+F:\Rout\.Net\C#\Session 04\Assignments\oop_1\common\obj\Debug\net8.0\common.AssemblyInfo.cs
+F:\Rout\.Net\C#\Session 04\Assignments\oop_1\common\obj\Debug\net8.0\common.csproj.CoreCompileInputs.cache
+F:\Rout\.Net\C#\Session 04\Assignments\oop_1\common\obj\Debug\net8.0\common.dll
+F:\Rout\.Net\C#\Session 04\Assignments\oop_1\common\obj\Debug\net8.0\refint\common.dll
+F:\Rout\.Net\C#\Session 04\Assignments\oop_1\common\obj\Debug\net8.0\common.pdb
+F:\Rout\.Net\C#\Session 04\Assignments\oop_1\common\obj\Debug\net8.0\ref\common.dll
